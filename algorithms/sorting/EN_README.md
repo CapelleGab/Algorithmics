@@ -7,7 +7,7 @@ Sorting is a fundamental operation in computer science that consists of rearrang
 
 ## Included Algorithms
 
-- **Bubble Sort**  
+- **Bubble Sort** [Python](./bubble_sort/python/bubble_sort.py)
   A simple and educational algorithm, but inefficient on large lists (O(n²) complexity).
 
 - **Insertion Sort**  

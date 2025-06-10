@@ -7,7 +7,7 @@ Le tri est une opération fondamentale en informatique qui consiste à réorgani
 
 ## Algorithmes présents
 
-- **Bubble Sort** (Tri à bulles)  
+- **Bubble Sort** (Tri à bulles) [Python](./bubble_sort/python/bubble_sort.py)
   Algorithme simple, pédagogique, mais peu efficace sur de grandes listes (complexité O(n²)).
 
 - **Insertion Sort** (Tri par insertion)  
