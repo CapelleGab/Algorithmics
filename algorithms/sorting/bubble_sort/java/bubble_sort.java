@@ -1,3 +1,14 @@
+/*
+-----------------------------------------------------------------------------
+Nom du fichier : bubble_sort.java
+Auteur        : CAPELLE Gabin (https://github.com/CapelleGab)
+Créé le      : 10-06-2025 20:39
+Dernière MAJ : 10-06-2025 20:39
+
+Description   : Implémentation de l'algorithme de tri à bulles (Bubble Sort) en Java.
+-----------------------------------------------------------------------------
+*/
+
 import java.util.Arrays;
 
 class BubbleSort {
